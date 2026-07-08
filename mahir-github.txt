@@ -5,3 +5,5 @@ Mahir github
 - Dan cara kerja dari github
 - Semoga lancar pakek github
 - Saya pasti bisa
+- serta bagaimana github ini bekerja 
+- dan mampu memakai tools tools yang ada
