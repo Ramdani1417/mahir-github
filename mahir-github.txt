@@ -2,4 +2,5 @@ Mahir github
 - Belajar memmakai github
 - Memahami bekerja dengan github
 - Paham dengan github
-- Dan cara kerja dari github 
+- Dan cara kerja dari github
+- Semoga lancar pakek github
