@@ -1,5 +1,7 @@
 Mahir github 
 - Belajar memmakai github
+ * seperti tools apa saja 
+ * dan cara kerja nya
 - Memahami bekerja dengan github
 - Paham dengan github
 - Dan cara kerja dari github
