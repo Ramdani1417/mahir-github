@@ -1,5 +1,6 @@
 Rencana belajar github
 
 - paham dengan commetnya
+* pull, push dan comment
 - paham dengan tools tools yang ada
 - mampu untuk memahami github nya
